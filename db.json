@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "9ba67fe3-cd63-4db6-8720-25f45ee4444c",
+      "name": "Spider man",
+      "count": 1,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXert6ekqTL1J7LVWNAhs65_GeostayFqh6A&s",
+      "weight": "5",
+      "size": {
+        "width": 112,
+        "height": 11
+      },
+      "comments": []
+    },
+    {
+      "id": "c0a28741-5f72-4e89-8f96-fb1cc679a1bf",
+      "name": "Flamingo",
+      "count": 2,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg",
+      "weight": "80",
+      "size": {
+        "width": 10,
+        "height": 50
+      },
+      "comments": []
+    }
+  ],
+  "comments": []
+}
