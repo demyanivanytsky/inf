@@ -90,7 +90,7 @@ export const productSlice = createSlice({
                 const product = state.items.find(p => p.id === productId);
                 if (product) {
                     if (!product.comments) product.comments = [];
-                    product.comments.push(comment.id); // push only comment id as string
+                    product.comments.push(comment.id);
                 }
             })
 
